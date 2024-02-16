@@ -22,19 +22,11 @@ I'm a passionate and versatile developer with expertise in web development, Pyth
 
 ## 🚀 Projects
 
-Here are some of my notable projects:
-
-- [Project 1: [Project Name]](link-to-project)
-- [Project 2: [Project Name]](link-to-project)
-- [Project 3: [Project Name]](link-to-project)
-
 Feel free to explore my repositories for more projects and code snippets!
 
 ## 📫 Let's Connect!
 
-- 🌐 [Portfolio Website](your-portfolio-website)
-- 🐦 [Twitter](your-twitter-profile)
-- 📧 [Email](your-email@example.com)
-- 🔗 [LinkedIn](your-linkedin-profile)
+- 📧 [Email](tanvi.sharma2021@sait.ac.in)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tanvi-sharma-918443234)
 
 Let's collaborate and build something amazing together! Feel free to reach out for opportunities, discussions, or just to say hi. 😊
