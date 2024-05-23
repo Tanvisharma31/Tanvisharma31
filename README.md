@@ -43,9 +43,12 @@ Feel free to explore my repositories for more projects and code snippets!
 ![HTML](https://img.shields.io/badge/HTML-Advanced-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-Advanced-blue?style=for-the-badge&logo=css3)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-orange?style=for-the-badge&logo=pytorch)
+![Pandas](https://img.shields.io/badge/Pandas-Advanced-orange?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Advanced-orange?style=for-the-badge&logo=numpy)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Intermediate-blue?style=for-the-badge&logo=opencv)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Intermediate-yellow?style=for-the-badge&logo=scikit-learn)
 ![React.js](https://img.shields.io/badge/React.js-Intermediate-blue?style=for-the-badge&logo=react)
+![Angular.js](https://img.shields.io/badge/Angular.js-Intermediate-blue?style=for-the-badge&logo=angular)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Intermediate-yellow?style=for-the-badge)
 
 ### Other Skills
