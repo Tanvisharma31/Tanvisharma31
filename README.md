@@ -21,8 +21,6 @@ I'm a passionate and versatile developer with expertise in web development, Pyth
 - 🧪 Experience in developing and maintaining Python-based applications.
 - 📦 Familiar with popular Python libraries and frameworks like Django and Flask.
   
-## 📊 GitHub Stats
-[![Tanvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanvisharma31&show_icons=true&theme=radical)](https://github.com/Tanvisharma31/github-readme-stats)
 
 
 ## 🤖 Aspiring Machine Learning Expert
