@@ -1,20 +1,472 @@
-# 💫 About Me:
-🔭 I’m currently working on: AI, ML, and web development<br>👯 I’m looking to collaborate on: innovative web development projects <br>🤝 I’m looking for help with integrating advanced features into my repositories<br>🌱 I’m currently learning: advanced web development techniques and DSA<br>💬 Ask me about my projects in web development and AI<br>⚡ Fun fact: I love combining web technology with AI<br>
+<div align="center">
+
+# 👋 Hi, I'm Tanvi Sharma
+
+## 💼 Software Engineer (Backend / Full-Stack)
+
+**Python | TypeScript | Java | AWS | Scalable Systems | APIs**
+
+Software Engineer with hands-on experience building and shipping backend and full-stack systems in production. I've worked in fast-moving startup environments, owning features end-to-end from backend services and databases to cloud infrastructure and frontend integration.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvisharma31/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanvisharma31)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tanvisharma31.vercel.app)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tanvisharma31/)
+
+</div>
+
+---
+
+## 🎯 What I Do Well
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+- **Design & Build** scalable REST APIs and backend services
+- **Deploy** Dockerized applications on AWS (EC2, RDS, ECR, SES)
+- **Automate** workflows with Python to cut manual effort & improve delivery speed
+
+</td>
+<td width="50%" valign="top">
+
+- **Build** cloud infrastructure using AWS CDK (IAM, Cognito, DynamoDB, IoT Core, API Gateway)
+- **Debug** system-level performance issues and improve runtime stability
+- **Ship** production-ready full-stack features using TypeScript & Next.js
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Competitive Programming Profiles & Ratings
+
+<div align="center">
+
+### Coding Platform Stats
+
+<table>
+<tr>
+<td align="center" width="200">
+  <a href="https://leetcode.com/u/tanvisharma31/">
+    <img src="https://leetcard.jacoblin.cool/tanvisharma31?theme=dark&font=Inter&ext=heatmap&border=0&radius=20" alt="LeetCode Stats" height="200" />
+  </a>
+  <br>
+  <a href="https://leetcode.com/u/tanvisharma31/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</td>
+<td align="center" width="200">
+  <a href="https://www.codechef.com/users/tanvisharma31">
+    <img src="https://img.shields.io/badge/CodeChef-3★_1682-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+    <br>
+  </a>
+</td>
+<td align="center" width="200">
+  <a href="https://codeforces.com/profile/2004tanvisharma">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+  <a href="https://www.hackerrank.com/profile/tanvisharma31">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+    <br>
+    <sub><b>Certified:</b></sub>
+    <br>
+    <sub>Problem Solving, Java, Python, SQL</sub>
+  </a>
+</td>
+<td align="center" width="200">
+  <a href="https://www.naukri.com/code360/profile/Tanvisharma">
+    <img src="https://img.shields.io/badge/Naukri_Code360-0066CC?style=for-the-badge&logo=naukri&logoColor=white" alt="Naukri Code360" />
+  </a>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+<details>
+<summary><b>Software Engineer – Backend / Full-Stack (Contract)</b> | <i>Novixpert Tech Inc.</i> | Jun 2025 - Nov 2025</summary>
+
+- Built and maintained backend & full-stack systems using Python, C++, TypeScript, and AWS, supporting 8–10 production workflows
+- Automated image-annotation pipelines with Python, reducing manual labeling effort by ~65% (5–6 hrs → ~2 hrs)
+- Profiled NVIDIA edge-device workloads, identified CPU bottlenecks, and improved frame stability
+- Dockerized and deployed Java-based ERP system on AWS (EC2, RDS-MySQL, ECR, SES)
+- Designed cloud-native infrastructure using AWS CDK (IAM, Cognito, DynamoDB, IoT Core, API Gateway)
+
+</details>
+
+<details>
+<summary><b>Software Engineer Intern</b> | <i>WolfAssistants</i> | May 2024 - Jun 2025</summary>
+
+- Helped evolve product from early-stage idea into semi-automated lead discovery platform
+- Built data extraction & processing pipelines, cutting manual research by 60–70%
+- Developed backend services & APIs handling thousands of leads across 100+ countries
+- Shipped full-stack features contributing to ~99.9% email deliverability (SPF/DKIM/DMARC)
+- Designed semi-automated workflows saving users 8–10 hrs/week and boosting reply rates 3×
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏛️ Nyayik - AI Legal Tech Platform
+**Apr 2025 - Present**
+
+- Built AI-powered legal intelligence platform for Indian legal data
+- Designed hybrid retrieval system (keyword + semantic vector search)
+- Developed document ingestion pipeline with OCR and embedding generation
+- Implemented page-level citation grounding for auditability
+- Built backend services for summarization, clause extraction, and translation
+
+</td>
+<td width="50%" valign="top">
+
+### 🤟 Vyomix – AI Sign Language Workspace
+**Sep 2024 - Mar 2025**
+
+- Real-time sign language translation platform
+- **99.2% accuracy** with **<100ms latency**
+- Tracks 500+ body, hand, and facial landmarks
+- Supports 50+ spoken and signed languages
+- Deployed cross-platform (Web, Android, iOS)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+**Bachelor of Technology - Computer Science**  
+🏫 **Sri Aurobindo Institute of Technology** | Oct 2021 - May 2025 | **CGPA: 7.0**
+
+**Relevant Coursework**: Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Computer Networks, Artificial Intelligence, Machine Learning
+
+**Leadership Roles**: Tech Club Vice Head, Coding Club Head, Workshop Coordinator, Technical Game Coordinator
+
+</div>
+
+---
+
+## 🏅 Certifications
+
+<div align="center">
+
+[![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-Generative_AI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/)
+[![IBM](https://img.shields.io/badge/IBM-Applied_Data_Science-006699?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/)
+[![McKinsey](https://img.shields.io/badge/McKinsey-Forward_Program-00A5E5?style=for-the-badge&logo=mckinsey&logoColor=white)](https://www.mckinsey.com/)
+[![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.aws.amazon.com/)
+
+**Oracle Cloud Infrastructure 2024 Generative AI Professional** (Jul 2024 - Jul 2026)  
+**IBM Applied Data Science** (Jul 2024)  
+**McKinsey Forward Learning Program**  
+**HackerRank**: Problem Solving (Basic & Intermediate), Python (Basic), SQL (Advanced), Java
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+<div align="center">
+  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+</div>
+
+### Backend & Frameworks
+<div align="center">
+  
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+</div>
+
+### Frontend
+<div align="center">
+  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</div>
+
+### Cloud & DevOps
+<div align="center">
+  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
+
+### Databases
+<div align="center">
+  
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+
+</div>
+
+### ML/AI
+<div align="center">
+  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Profile Summary
+
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/Tanvisharma31?label=Followers&style=for-the-badge&color=ff6b6b&logo=github)](https://github.com/Tanvisharma31)
+[![Profile Views](https://komarev.com/ghpvc/?username=Tanvisharma31&label=Profile%20Views&color=ff6b6b&style=for-the-badge)](https://github.com/Tanvisharma31)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+### 📈 Profile Statistics
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+#### 🎯 GitHub Metrics
+
+[![GitHub followers](https://img.shields.io/github/followers/Tanvisharma31?label=Followers&style=for-the-badge&color=ff6b6b&logo=github)](https://github.com/Tanvisharma31)
+
+<br/>
+
+[![GitHub commits](https://img.shields.io/badge/Commits-Active-success?style=for-the-badge&logo=git&logoColor=white&color=ff6b6b)](https://github.com/Tanvisharma31)
+[![GitHub repos](https://img.shields.io/badge/Repositories-Public-blue?style=for-the-badge&logo=github&logoColor=white&color=ff6b6b)](https://github.com/Tanvisharma31)
+
+<br/>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanvi.sharma._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tanvisharma31/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tanvisharma_31) 
+</td>
+<td align="center" width="50%">
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=plastic&logo=astro&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=#D04A37) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=plastic&logo=opengl) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=plastic) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=plastic&logo=strapi&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=plastic&logo=gunicorn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tanvisharma31&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tanvisharma31&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvisharma31&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+#### 💻 Coding Activity
 
+[![GitHub contributions](https://img.shields.io/badge/Contributions-Active-success?style=for-the-badge&logo=github&logoColor=white&color=ff6b6b)](https://github.com/Tanvisharma31)
+[![GitHub forks](https://img.shields.io/github/forks/Tanvisharma31/Tanvisharma31?label=Forks&style=for-the-badge&color=ff6b6b&logo=github)](https://github.com/Tanvisharma31)
+
+
+
+<br/>
+
+[![Years Badge](https://img.shields.io/badge/Years%20Coding-4+-blue?style=for-the-badge&logo=code&logoColor=white&color=ff6b6b)](https://github.com/Tanvisharma31)
+[![Profile Views](https://komarev.com/ghpvc/?username=Tanvisharma31&label=Profile%20Views&color=ff6b6b&style=for-the-badge)](https://github.com/Tanvisharma31)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🔥 Contribution Highlights
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**📝 Commits**  
+Active Contributor
+
+</td>
+<td align="center" width="33%">
+
+**⭐ Stars**  
+Open Source Enthusiast
+
+</td>
+<td align="center" width="33%">
+
+**🍴 Forks**  
+Community Collaborator
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 💻 Technology Stack Distribution
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**Python**  
+Backend & ML
+
+</td>
+<td align="center" width="25%">
+
+**TypeScript**  
+Full-Stack
+
+</td>
+<td align="center" width="25%">
+
+**Java**  
+Enterprise Apps
+
+</td>
+<td align="center" width="25%">
+
+**C++**  
+System Programming
+
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+
+**JavaScript**  
+Frontend
+
+</td>
+<td align="center" width="25%">
+
+**React/Next.js**  
+Web Development
+
+</td>
+<td align="center" width="25%">
+
+**AWS**  
+Cloud Infrastructure
+
+</td>
+<td align="center" width="25%">
+
+**Docker**  
+DevOps
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🏆 Achievements & Badges
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Active-success?style=flat-square&logo=github&logoColor=white&color=ff6b6b)](https://github.com/Tanvisharma31)
+
+</td>
+<td align="center" width="20%">
+
+[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-blue?style=flat-square&logo=github&logoColor=white&color=ff6b6b)](https://github.com/Tanvisharma31)
+
+</td>
+<td align="center" width="20%">
+
+[![Code Review](https://img.shields.io/badge/Code%20Review-Active-success?style=flat-square&logo=github&logoColor=white&color=ff6b6b)](https://github.com/Tanvisharma31)
+
+</td>
+<td align="center" width="20%">
+
+[![Documentation](https://img.shields.io/badge/Documentation-Writer-blue?style=flat-square&logo=readthedocs&logoColor=white&color=ff6b6b)](https://github.com/Tanvisharma31)
+
+</td>
+<td align="center" width="20%">
+
+[![Mentor](https://img.shields.io/badge/Mentor-Available-success?style=flat-square&logo=github&logoColor=white&color=ff6b6b)](https://github.com/Tanvisharma31)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 📊 Activity Summary
+
+<div align="center">
+
+**🚀 Always building something new** | **💡 Open to collaboration** | **📚 Continuous learner**
+
+</div>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvisharma31/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanvisharma31)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://tanvisharma31.vercel.app)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/tanvi_sharma.31)
+
+</div>
+
+---
+
+## 🎯 Currently Open To
+
+<div align="center">
+
+**Software Engineer (Backend / Full-Stack)** roles where I can own systems end-to-end, build at scale, and grow as a strong SDE.
+
+**Roles**: Software Developer, Software Engineer, Machine Learning Engineer, Python Developer
+
+</div>
+
+---
+
+<div align="center">
+  
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Tanvisharma31&limit=5&theme=merko&combine_all_yearly_contributions=true)
+**Thanks for visiting!** ⭐
 
+</div>
