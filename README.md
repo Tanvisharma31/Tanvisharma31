@@ -104,7 +104,22 @@ Integrating **ML models** into production systems
 ## 💼 Professional Journey
 
 <details open>
-<summary><b>🚀 Software Engineer – Backend / Full-Stack (Contract)</b> @ Novixpert Tech Inc. | <i>Jun 2024 - Nov 2024</i></summary>
+<summary><b>🚀 Software Engineer (Full Stack)</b> @ COM Financial Services | <i>Nov 2025 - Present</i></summary>
+<br>
+
+- 🏗️ Built & scaled **full-stack web applications** using Python (FastAPI) and Next.js for secure, high-performance client platforms
+- 🔐 Implemented **API rate limiting & authentication middleware** to improve reliability and prevent abuse at scale
+- ⚡ Optimized backend performance via **query optimization & indexing** → significantly reduced API response times
+- 🎯 Designed & consumed **RESTful APIs** with clean architecture and production-ready standards
+- 🤝 Collaborated cross-functionally with product & design teams to translate business requirements into scalable solutions
+- 🛡️ Ensured application **security, scalability & performance** following modern web development best practices
+
+**Tech Stack**: Python, FastAPI, Next.js, JavaScript, REST APIs, SQL, Query Optimization, Rate Limiting, Git
+
+</details>
+
+<details open>
+<summary><b>🚀 Software Engineer – Backend / Full-Stack (Contract)</b> @ Novixpert Tech Inc. | <i>Jun 2025 - Nov 2025</i></summary>
 <br>
 
 - 🔨 Built & maintained **8-10 production workflows** using Python, C++, TypeScript & AWS
@@ -116,7 +131,7 @@ Integrating **ML models** into production systems
 </details>
 
 <details>
-<summary><b>💡 Software Engineer Intern</b> @ WolfAssistants | <i>May 2024 - Jun 2024</i></summary>
+<summary><b>💡 Software Engineer Intern</b> @ WolfAssistants | <i>May 2024 - Jun 2025</i></summary>
 <br>
 
 - 🎯 Evolved product from early-stage to **semi-automated lead discovery platform**
@@ -184,7 +199,7 @@ Integrating **ML models** into production systems
 <tr>
 <td align="center" width="25%">
   <a href="https://leetcode.com/u/tanvisharma31/">
-    <img src="https://img.shields.io/badge/LeetCode-500%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-300%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
     <br><br>
     <img src="https://leetcard.jacoblin.cool/tanvisharma31?theme=dark&font=Inter&ext=heatmap&border=0&radius=10" width="100%" />
   </a>
