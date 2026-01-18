@@ -63,11 +63,7 @@ Software Engineer with hands-on experience building and shipping backend and ful
     <br>
   </a>
 </td>
-<td align="center" width="200">
-  <a href="https://codeforces.com/profile/2004tanvisharma">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-</td>
+
 </tr>
 <tr>
 <td align="center" width="200">
